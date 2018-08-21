@@ -1,0 +1,28 @@
+{
+  "name": "cdn-keycloak-angular",
+  "version": "1.0.0",
+  "description": "CDN for keycloak-angular examples",
+  "main": "index.js",
+  "scripts": {
+    "": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://mauriciovigolo@github.com/mauriciovigolo/cdn-keycloak-angular.git"
+  },
+  "keywords": [
+    "CDN",
+    "Keycloak Angular",
+    "Amiibo",
+    "Dota Heroes"
+  ],
+  "author": "mauriciovigolo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mauriciovigolo/cdn-keycloak-angular/issues"
+  },
+  "homepage": "https://github.com/mauriciovigolo/cdn-keycloak-angular#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
