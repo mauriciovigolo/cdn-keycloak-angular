@@ -1,4 +1,4 @@
-# keycloak-angular-cdn
+# cdn-keycloak-angular
 
 CDN for [keycloak-angular](https://github.com/mauriciovigolo/keycloak-angular) examples. This CDN provides the images for the library examples, just for testing purposes.
 
