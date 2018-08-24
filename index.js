@@ -34,4 +34,6 @@ app.use((req, res) => {
   res.type('txt').send('Not found');
 });
 
-app.listen(4200, () => console.log('App working on 4200'));
+let port = process.env.PORT || 4200;
+
+app.listen(port, () => console.log(`App working on ${port}`));
